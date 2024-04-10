@@ -5,7 +5,10 @@
   text-align: center;
 }
 .test{
-  padding-bottom: 500px;
-  padding-left: 600px;
+  padding-bottom: 300px;
+  padding-left: 0px;
   
+}
+.centers{
+  padding-top: 50px;
 }
