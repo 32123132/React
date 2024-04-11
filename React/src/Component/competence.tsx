@@ -6,7 +6,6 @@ const information =[
   {all:"Love to study", info:'many times to study '}
 ] 
 export function Card({props, info}){
-  
     return (
     <div className={style.Card}>
         <img src="../images.png" alt="Avatar"/>
